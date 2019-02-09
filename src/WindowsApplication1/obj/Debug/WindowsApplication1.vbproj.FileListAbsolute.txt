@@ -1,0 +1,10 @@
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\obj\Debug\WindowsApplication1.SharpBrowser.Program.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

@@ -1,0 +1,33 @@
+C:\src\obj\x86\Debug\SharpBrowser.Form1.resources
+C:\src\obj\x86\Debug\SharpBrowser.MainForm.resources
+C:\src\obj\x86\Debug\SharpBrowser.Properties.Resources.resources
+C:\src\obj\x86\Debug\Navegador.csproj.GenerateResource.Cache
+C:\src\obj\x86\Debug\Navegador.csproj.CoreCompileInputs.cache
+C:\src\bin\SharpBrowser.exe.config
+C:\src\bin\SharpBrowser.exe
+C:\src\bin\SharpBrowser.pdb
+C:\src\obj\x86\Debug\SharpBrowser.exe
+C:\src\obj\x86\Debug\SharpBrowser.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\bin\SharpBrowser.exe.config
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\bin\SharpBrowser.exe
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\bin\SharpBrowser.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\obj\x86\Debug\Navegador.csprojResolveAssemblyReference.cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\obj\x86\Debug\SharpBrowser.Form1.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\obj\x86\Debug\SharpBrowser.MainForm.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\obj\x86\Debug\SharpBrowser.Properties.Resources.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\obj\x86\Debug\Navegador.csproj.GenerateResource.Cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\obj\x86\Debug\Navegador.csproj.CoreCompileInputs.cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\obj\x86\Debug\SharpBrowser.exe
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\obj\x86\Debug\SharpBrowser.pdb
+C:\Project\browser\src\bin\SharpBrowser.exe.config
+C:\Project\browser\src\bin\SharpBrowser.exe
+C:\Project\browser\src\bin\SharpBrowser.pdb
+C:\Project\browser\src\obj\x86\Debug\SharpBrowser.Form1.resources
+C:\Project\browser\src\obj\x86\Debug\SharpBrowser.MainForm.resources
+C:\Project\browser\src\obj\x86\Debug\SharpBrowser.Properties.Resources.resources
+C:\Project\browser\src\obj\x86\Debug\Navegador.csproj.GenerateResource.Cache
+C:\Project\browser\src\obj\x86\Debug\Navegador.csproj.CoreCompileInputs.cache
+C:\Project\browser\src\obj\x86\Debug\SharpBrowser.exe
+C:\Project\browser\src\obj\x86\Debug\SharpBrowser.pdb
+C:\Project\browser\src\obj\x86\Debug\Navegador.csprojAssemblyReference.cache
+C:\Project\browser\src\obj\x86\Debug\Navegador.csproj.CopyComplete

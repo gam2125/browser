@@ -1,0 +1,31 @@
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\bin\SharpBrowser.exe.config
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\bin\SharpBrowser.exe
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\bin\SharpBrowser.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.Form1.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.MainForm.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.Properties.Resources.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.csproj.GenerateResource.Cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.exe
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueba 4 chromium\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\bin\SharpBrowser.exe.config
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\bin\SharpBrowser.exe
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\bin\SharpBrowser.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.Form1.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.MainForm.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.Properties.Resources.resources
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.csproj.GenerateResource.Cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.csproj.CoreCompileInputs.cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.exe
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\obj\x86\Debug\SharpBrowser.csprojResolveAssemblyReference.cache
+C:\src\bin\SharpBrowser.exe.config
+C:\src\bin\SharpBrowser.exe
+C:\src\bin\SharpBrowser.pdb
+C:\src\obj\x86\Debug\SharpBrowser.csprojResolveAssemblyReference.cache
+C:\src\obj\x86\Debug\SharpBrowser.Form1.resources
+C:\src\obj\x86\Debug\SharpBrowser.MainForm.resources
+C:\src\obj\x86\Debug\SharpBrowser.Properties.Resources.resources
+C:\src\obj\x86\Debug\SharpBrowser.csproj.GenerateResource.Cache
+C:\src\obj\x86\Debug\SharpBrowser.csproj.CoreCompileInputs.cache
+C:\src\obj\x86\Debug\SharpBrowser.exe
+C:\src\obj\x86\Debug\SharpBrowser.pdb

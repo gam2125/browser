@@ -1,0 +1,12 @@
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\WinFormMaxLibrary\bin\Debug\WinFormMaxLibrary.dll
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\WinFormMaxLibrary\bin\Debug\WinFormMaxLibrary.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\WinFormMaxLibrary\obj\Debug\WinFormMaxLibrary.csproj.CoreCompileInputs.cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\WinFormMaxLibrary\obj\Debug\WinFormMaxLibrary.dll
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\WinFormMaxLibrary\obj\Debug\WinFormMaxLibrary.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\apis\prueva chromium 2017\SharpBrowser-master\src\WinFormMaxLibrary\obj\Debug\WinFormMaxLibrary.csprojResolveAssemblyReference.cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\WinFormMaxLibrary\bin\Debug\WinFormMaxLibrary.dll
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\WinFormMaxLibrary\bin\Debug\WinFormMaxLibrary.pdb
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\WinFormMaxLibrary\obj\Debug\WinFormMaxLibrary.csprojResolveAssemblyReference.cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\WinFormMaxLibrary\obj\Debug\WinFormMaxLibrary.csproj.CoreCompileInputs.cache
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\WinFormMaxLibrary\obj\Debug\WinFormMaxLibrary.dll
+G:\Gam Software\SYSTEMAS\Sistemas .NET\.desarrollo\2017\src\WinFormMaxLibrary\obj\Debug\WinFormMaxLibrary.pdb
